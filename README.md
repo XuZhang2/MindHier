@@ -197,11 +197,7 @@ Reported metrics typically include pixel correlation, SSIM, CLIP-based similarit
   title={Moving Beyond Diffusion: Hierarchy-to-Hierarchy Autoregression for f{MRI}-to-Image Reconstruction},
   author={Xu Zhang and Ruijie Quan and Wenguan Wang and Yi Yang},
   booktitle={The Fourteenth International Conference on Learning Representations},
-  year={2026},
-  url={https://arxiv.org/abs/2510.22335},
-  eprint={2510.22335},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+  year={2026}
 }
 ```
 
